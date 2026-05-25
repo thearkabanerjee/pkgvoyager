@@ -8,6 +8,13 @@ Built for developers who want fast npm package analytics directly from the termi
 
 ---
 
+![npm](https://img.shields.io/npm/v/npm-download-counter)
+![license](https://img.shields.io/npm/l/npm-download-counter)
+![downloads](https://img.shields.io/npm/dm/npm-download-counter)
+
+
+---
+
 ## Features
 
 - Calculate downloads across any custom date range
@@ -143,6 +150,3 @@ If you find a bug or have an idea for improvement, open an issue.
 
 MIT
 
-![npm](https://img.shields.io/npm/v/npm-download-counter)
-![license](https://img.shields.io/npm/l/npm-download-counter)
-![downloads](https://img.shields.io/npm/dm/npm-download-counter)
