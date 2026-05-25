@@ -144,6 +144,9 @@ Issues and pull requests are welcome.
 
 If you find a bug or have an idea for improvement, open an issue.
 
+github repo link:
+https://github.com/thearkabanerjee/pkgvoyager
+
 ---
 
 ## License
