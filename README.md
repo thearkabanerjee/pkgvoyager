@@ -1,4 +1,4 @@
-# npm-download-counter
+# pkgvoyager
 
 > A simple CLI tool to calculate total npm downloads for any package across any custom date range.
 
@@ -8,9 +8,9 @@ Built for developers who want fast npm package analytics directly from the termi
 
 ---
 
-![npm](https://img.shields.io/npm/v/npm-download-counter)
-![license](https://img.shields.io/npm/l/npm-download-counter)
-![downloads](https://img.shields.io/npm/dm/npm-download-counter)
+![npm](https://img.shields.io/npm/v/pkgvoyager)
+![license](https://img.shields.io/npm/l/pkgvoyager)
+![downloads](https://img.shields.io/npm/dm/pkgvoyager)
 
 
 ---
@@ -31,13 +31,13 @@ Built for developers who want fast npm package analytics directly from the termi
 Global install:
 
 ```bash
-npm install -g npm-download-counter
+npm install -g pkgvoyager
 ```
 
 Or run instantly:
 
 ```bash
-npx npm-download-counter react 2025-01-01 2025-12-31
+npx pkgvoyager react 2025-01-01 2025-12-31
 ```
 
 ---
@@ -45,13 +45,13 @@ npx npm-download-counter react 2025-01-01 2025-12-31
 ## Usage
 
 ```bash
-npm-download-counter <package-name> <start-date> <end-date>
+pkgvoyager <package-name> <start-date> <end-date>
 ```
 
 ### Example
 
 ```bash
-npm-download-counter react 2025-01-01 2025-12-31
+pkgvoyager react 2025-01-01 2025-12-31
 ```
 
 Output:
@@ -77,7 +77,7 @@ YYYY-MM-DD
 Example:
 
 ```bash
-npm-download-counter express 2024-01-01 2024-12-31
+pkgvoyager express 2024-01-01 2024-12-31
 ```
 
 ---
@@ -101,11 +101,11 @@ Useful for:
 ## Example Ideas
 
 ```bash
-npm-download-counter react 2025-01-01 2025-12-31
+pkgvoyager react 2025-01-01 2025-12-31
 
-npm-download-counter next 2024-06-01 2024-12-01
+pkgvoyager next 2024-06-01 2024-12-01
 
-npm-download-counter typescript 2023-01-01 2026-01-01
+pkgvoyager typescript 2023-01-01 2026-01-01
 ```
 
 ---

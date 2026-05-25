@@ -1,10 +1,10 @@
 {
-  "name": "npm-download-counter",
+  "name": "pkgvoyager",
   "version": "1.0.0",
   "description": "CLI tool to calculate npm downloads for any package during any period",
   "main": "downloads.js",
   "bin": {
-    "npm-download-counter": "./downloads.js"
+    "pkgvoyager": "./downloads.js"
   },
   "keywords": [
     "npm",

@@ -7,10 +7,10 @@ const args = process.argv.slice(2);
 if (args.length < 3) {
   console.log(`
 Usage:
-npx npm-download-counter <package> <start-date> <end-date>
+npx pkgvoyager <package> <start-date> <end-date>
 
 Example:
-npx npm-download-counter arkaquiz 2024-01-01 2026-05-23
+npx pkgvoyager arkaquiz 2024-01-01 2026-05-23
 `);
 
   process.exit(1);
