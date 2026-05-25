@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Coverage / testing
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# npm package tarballs
+*.tgz
